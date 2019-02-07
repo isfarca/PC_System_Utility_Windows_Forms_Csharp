@@ -1,0 +1,18 @@
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\bin\Debug\PC System Utility.exe.config
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\bin\Debug\PC System Utility.exe
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\bin\Debug\PC System Utility.pdb
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\obj\Debug\PC_System_Utility.FormHauptfenster.resources
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\obj\Debug\PC_System_Utility.Properties.Resources.resources
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\obj\Debug\PC System Utility.csproj.GenerateResource.Cache
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\obj\Debug\PC System Utility.exe
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\obj\Debug\PC System Utility.pdb
+C:\Users\Fethi\Desktop\PC System Utility\PC System Utility\obj\Debug\PC System Utility.csprojResolveAssemblyReference.cache
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\bin\Debug\PC System Utility.exe.config
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\bin\Debug\PC System Utility.exe
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\bin\Debug\PC System Utility.pdb
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\obj\Debug\PC System Utility.csprojResolveAssemblyReference.cache
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\obj\Debug\PC_System_Utility.FormHauptfenster.resources
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\obj\Debug\PC_System_Utility.Properties.Resources.resources
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\obj\Debug\PC System Utility.csproj.GenerateResource.Cache
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\obj\Debug\PC System Utility.exe
+D:\Hobby\Anwendungen\Learning\C#_Forms_Utilities\PC System Utility\PC System Utility\obj\Debug\PC System Utility.pdb
